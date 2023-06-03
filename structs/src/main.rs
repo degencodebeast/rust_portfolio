@@ -3,7 +3,7 @@ struct User {
     username: String,
     email: String,
     sign_in_count: u64
-}
+};
 
 struct Color(i32, i32, i32);
 struct Point(i32, i32, i32);
